@@ -2,68 +2,68 @@
     {
         "seller_id": 1,
         "nickname": "seller_1",
-        "gender": "female",
+        "gender": "male",
         "email": "seller1@example.com",
         "address": "Seller Address 1",
-        "phone_num": "010-5990-7462",
+        "phone_num": "010-1039-3089",
         "role": "seller",
         "real_name": "Seller Name 1",
-        "regist_date": "2020-10-28 08:53:27"
+        "regist_date": "2020-10-09 00:38:35"
     },
     {
         "seller_id": 2,
         "nickname": "seller_2",
-        "gender": "male",
+        "gender": "female",
         "email": "seller2@example.com",
         "address": "Seller Address 2",
-        "phone_num": "010-7795-7818",
+        "phone_num": "010-9485-9324",
         "role": "seller",
         "real_name": "Seller Name 2",
-        "regist_date": "2020-08-18 00:01:32"
+        "regist_date": "2021-04-25 00:54:49"
     },
     {
         "seller_id": 3,
         "nickname": "seller_3",
-        "gender": "male",
+        "gender": "female",
         "email": "seller3@example.com",
         "address": "Seller Address 3",
-        "phone_num": "010-3484-2650",
+        "phone_num": "010-3450-2316",
         "role": "seller",
         "real_name": "Seller Name 3",
-        "regist_date": "2021-09-04 19:43:36"
+        "regist_date": "2021-08-08 14:56:40"
     },
     {
         "seller_id": 4,
         "nickname": "seller_4",
-        "gender": "female",
+        "gender": "male",
         "email": "seller4@example.com",
         "address": "Seller Address 4",
-        "phone_num": "010-8342-7026",
+        "phone_num": "010-6507-2255",
         "role": "seller",
         "real_name": "Seller Name 4",
-        "regist_date": "2021-01-23 08:52:57"
+        "regist_date": "2022-04-22 10:53:03"
     },
     {
         "seller_id": 5,
         "nickname": "seller_5",
-        "gender": "male",
+        "gender": "female",
         "email": "seller5@example.com",
         "address": "Seller Address 5",
-        "phone_num": "010-8985-6227",
+        "phone_num": "010-6842-6771",
         "role": "seller",
         "real_name": "Seller Name 5",
-        "regist_date": "2022-06-16 03:30:21"
+        "regist_date": "2021-05-20 20:11:34"
     },
     {
         "seller_id": 6,
         "nickname": "seller_6",
-        "gender": "male",
+        "gender": "female",
         "email": "seller6@example.com",
         "address": "Seller Address 6",
-        "phone_num": "010-5699-4667",
+        "phone_num": "010-1615-8099",
         "role": "seller",
         "real_name": "Seller Name 6",
-        "regist_date": "2022-11-25 16:37:05"
+        "regist_date": "2020-08-13 21:26:20"
     },
     {
         "seller_id": 7,
@@ -71,32 +71,32 @@
         "gender": "male",
         "email": "seller7@example.com",
         "address": "Seller Address 7",
-        "phone_num": "010-4182-8265",
+        "phone_num": "010-5649-6379",
         "role": "seller",
         "real_name": "Seller Name 7",
-        "regist_date": "2022-11-04 18:20:28"
+        "regist_date": "2023-10-19 23:26:25"
     },
     {
         "seller_id": 8,
         "nickname": "seller_8",
-        "gender": "male",
+        "gender": "female",
         "email": "seller8@example.com",
         "address": "Seller Address 8",
-        "phone_num": "010-2183-2060",
+        "phone_num": "010-5972-3123",
         "role": "seller",
         "real_name": "Seller Name 8",
-        "regist_date": "2023-07-19 02:22:23"
+        "regist_date": "2023-03-21 19:49:34"
     },
     {
         "seller_id": 9,
         "nickname": "seller_9",
-        "gender": "male",
+        "gender": "female",
         "email": "seller9@example.com",
         "address": "Seller Address 9",
-        "phone_num": "010-2776-3543",
+        "phone_num": "010-2641-5057",
         "role": "seller",
         "real_name": "Seller Name 9",
-        "regist_date": "2022-05-06 09:37:07"
+        "regist_date": "2022-01-27 01:04:59"
     },
     {
         "seller_id": 10,
@@ -104,9 +104,9 @@
         "gender": "male",
         "email": "seller10@example.com",
         "address": "Seller Address 10",
-        "phone_num": "010-7254-5044",
+        "phone_num": "010-9017-3509",
         "role": "seller",
         "real_name": "Seller Name 10",
-        "regist_date": "2022-06-10 04:45:32"
+        "regist_date": "2023-10-29 00:40:37"
     }
 ]
