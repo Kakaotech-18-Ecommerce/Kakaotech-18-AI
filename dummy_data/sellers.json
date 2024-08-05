@@ -5,10 +5,10 @@
         "gender": "female",
         "email": "seller1@example.com",
         "address": "Seller Address 1",
-        "phone_num": "010-5990-7462",
+        "phone_num": "010-6698-2915",
         "role": "seller",
         "real_name": "Seller Name 1",
-        "regist_date": "2020-10-28 08:53:27"
+        "regist_date": "2020-01-31 05:25:28"
     },
     {
         "seller_id": 2,
@@ -16,10 +16,10 @@
         "gender": "male",
         "email": "seller2@example.com",
         "address": "Seller Address 2",
-        "phone_num": "010-7795-7818",
+        "phone_num": "010-5025-9680",
         "role": "seller",
         "real_name": "Seller Name 2",
-        "regist_date": "2020-08-18 00:01:32"
+        "regist_date": "2023-10-16 08:36:19"
     },
     {
         "seller_id": 3,
@@ -27,21 +27,21 @@
         "gender": "male",
         "email": "seller3@example.com",
         "address": "Seller Address 3",
-        "phone_num": "010-3484-2650",
+        "phone_num": "010-2507-3553",
         "role": "seller",
         "real_name": "Seller Name 3",
-        "regist_date": "2021-09-04 19:43:36"
+        "regist_date": "2022-04-17 14:49:40"
     },
     {
         "seller_id": 4,
         "nickname": "seller_4",
-        "gender": "female",
+        "gender": "male",
         "email": "seller4@example.com",
         "address": "Seller Address 4",
-        "phone_num": "010-8342-7026",
+        "phone_num": "010-5088-2358",
         "role": "seller",
         "real_name": "Seller Name 4",
-        "regist_date": "2021-01-23 08:52:57"
+        "regist_date": "2022-12-24 17:45:29"
     },
     {
         "seller_id": 5,
@@ -49,10 +49,10 @@
         "gender": "male",
         "email": "seller5@example.com",
         "address": "Seller Address 5",
-        "phone_num": "010-8985-6227",
+        "phone_num": "010-2946-9393",
         "role": "seller",
         "real_name": "Seller Name 5",
-        "regist_date": "2022-06-16 03:30:21"
+        "regist_date": "2021-07-08 23:06:07"
     },
     {
         "seller_id": 6,
@@ -60,10 +60,10 @@
         "gender": "male",
         "email": "seller6@example.com",
         "address": "Seller Address 6",
-        "phone_num": "010-5699-4667",
+        "phone_num": "010-2268-6063",
         "role": "seller",
         "real_name": "Seller Name 6",
-        "regist_date": "2022-11-25 16:37:05"
+        "regist_date": "2022-04-25 20:38:08"
     },
     {
         "seller_id": 7,
@@ -71,10 +71,10 @@
         "gender": "male",
         "email": "seller7@example.com",
         "address": "Seller Address 7",
-        "phone_num": "010-4182-8265",
+        "phone_num": "010-7789-5322",
         "role": "seller",
         "real_name": "Seller Name 7",
-        "regist_date": "2022-11-04 18:20:28"
+        "regist_date": "2021-02-21 09:43:28"
     },
     {
         "seller_id": 8,
@@ -82,21 +82,21 @@
         "gender": "male",
         "email": "seller8@example.com",
         "address": "Seller Address 8",
-        "phone_num": "010-2183-2060",
+        "phone_num": "010-3626-6460",
         "role": "seller",
         "real_name": "Seller Name 8",
-        "regist_date": "2023-07-19 02:22:23"
+        "regist_date": "2022-01-14 06:05:50"
     },
     {
         "seller_id": 9,
         "nickname": "seller_9",
-        "gender": "male",
+        "gender": "female",
         "email": "seller9@example.com",
         "address": "Seller Address 9",
-        "phone_num": "010-2776-3543",
+        "phone_num": "010-6491-4008",
         "role": "seller",
         "real_name": "Seller Name 9",
-        "regist_date": "2022-05-06 09:37:07"
+        "regist_date": "2021-03-14 09:44:47"
     },
     {
         "seller_id": 10,
@@ -104,9 +104,9 @@
         "gender": "male",
         "email": "seller10@example.com",
         "address": "Seller Address 10",
-        "phone_num": "010-7254-5044",
+        "phone_num": "010-6312-7288",
         "role": "seller",
         "real_name": "Seller Name 10",
-        "regist_date": "2022-06-10 04:45:32"
+        "regist_date": "2023-08-15 13:09:01"
     }
 ]
