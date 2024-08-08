@@ -5,21 +5,21 @@
         "gender": "male",
         "email": "seller1@example.com",
         "address": "Seller Address 1",
-        "phone_num": "010-7680-5181",
+        "phone_num": "010-2070-6734",
         "role": "seller",
         "real_name": "Seller Name 1",
-        "regist_date": "2021-07-18 09:42:34"
+        "regist_date": "2023-01-02 06:59:05"
     },
     {
         "seller_id": 2,
         "nickname": "seller_2",
-        "gender": "female",
+        "gender": "male",
         "email": "seller2@example.com",
         "address": "Seller Address 2",
-        "phone_num": "010-5317-1147",
+        "phone_num": "010-7674-3158",
         "role": "seller",
         "real_name": "Seller Name 2",
-        "regist_date": "2020-10-05 14:04:47"
+        "regist_date": "2023-10-15 17:04:38"
     },
     {
         "seller_id": 3,
@@ -27,10 +27,10 @@
         "gender": "female",
         "email": "seller3@example.com",
         "address": "Seller Address 3",
-        "phone_num": "010-8237-8410",
+        "phone_num": "010-2880-1895",
         "role": "seller",
         "real_name": "Seller Name 3",
-        "regist_date": "2020-12-06 09:58:13"
+        "regist_date": "2023-08-27 10:59:50"
     },
     {
         "seller_id": 4,
@@ -38,10 +38,10 @@
         "gender": "male",
         "email": "seller4@example.com",
         "address": "Seller Address 4",
-        "phone_num": "010-4870-1249",
+        "phone_num": "010-7658-2738",
         "role": "seller",
         "real_name": "Seller Name 4",
-        "regist_date": "2020-09-09 06:49:26"
+        "regist_date": "2023-07-27 23:43:16"
     },
     {
         "seller_id": 5,
@@ -49,10 +49,10 @@
         "gender": "male",
         "email": "seller5@example.com",
         "address": "Seller Address 5",
-        "phone_num": "010-4536-9329",
+        "phone_num": "010-8650-3313",
         "role": "seller",
         "real_name": "Seller Name 5",
-        "regist_date": "2023-03-21 14:16:33"
+        "regist_date": "2023-10-10 05:02:39"
     },
     {
         "seller_id": 6,
@@ -60,32 +60,32 @@
         "gender": "female",
         "email": "seller6@example.com",
         "address": "Seller Address 6",
-        "phone_num": "010-8167-7397",
+        "phone_num": "010-7946-8054",
         "role": "seller",
         "real_name": "Seller Name 6",
-        "regist_date": "2021-08-04 15:56:04"
+        "regist_date": "2022-11-19 21:05:57"
     },
     {
         "seller_id": 7,
         "nickname": "seller_7",
-        "gender": "female",
+        "gender": "male",
         "email": "seller7@example.com",
         "address": "Seller Address 7",
-        "phone_num": "010-3322-5134",
+        "phone_num": "010-6122-1365",
         "role": "seller",
         "real_name": "Seller Name 7",
-        "regist_date": "2021-06-26 03:02:18"
+        "regist_date": "2022-03-22 05:18:48"
     },
     {
         "seller_id": 8,
         "nickname": "seller_8",
-        "gender": "female",
+        "gender": "male",
         "email": "seller8@example.com",
         "address": "Seller Address 8",
-        "phone_num": "010-3638-2582",
+        "phone_num": "010-9383-9315",
         "role": "seller",
         "real_name": "Seller Name 8",
-        "regist_date": "2020-05-13 07:05:28"
+        "regist_date": "2021-01-31 15:44:14"
     },
     {
         "seller_id": 9,
@@ -93,20 +93,20 @@
         "gender": "male",
         "email": "seller9@example.com",
         "address": "Seller Address 9",
-        "phone_num": "010-2924-4281",
+        "phone_num": "010-1549-3185",
         "role": "seller",
         "real_name": "Seller Name 9",
-        "regist_date": "2020-09-23 05:47:59"
+        "regist_date": "2020-11-30 10:14:48"
     },
     {
         "seller_id": 10,
         "nickname": "seller_10",
-        "gender": "female",
+        "gender": "male",
         "email": "seller10@example.com",
         "address": "Seller Address 10",
-        "phone_num": "010-4165-4556",
+        "phone_num": "010-7401-4308",
         "role": "seller",
         "real_name": "Seller Name 10",
-        "regist_date": "2023-07-02 19:20:39"
+        "regist_date": "2020-11-10 01:50:00"
     }
 ]
