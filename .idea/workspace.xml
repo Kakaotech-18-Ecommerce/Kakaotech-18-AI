@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42a80d02-2623-4535-a7f3-b2d8d13b8bed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_10.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_11.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_12.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_13.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_14.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_15.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_16.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_17.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_18.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_19.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_20.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_21.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_22.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_23.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_24.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_25.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_26.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_27.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_28.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_29.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_30.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_31.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_32.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_33.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_34.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_35.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_36.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_37.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_38.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_39.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_40.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_41.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_42.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_43.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_44.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_45.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_46.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_47.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_48.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_49.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_50.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_51.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_52.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_53.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_54.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_55.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_56.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_57.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_58.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_59.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_6.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_60.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_61.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_62.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_63.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_64.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_65.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_66.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_67.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_68.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_69.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_7.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_70.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_71.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_72.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_73.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_74.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_75.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_76.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_77.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_78.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_79.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_8.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_80.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_data/data_image/image_9.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/dummy_data/products.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-1. 초콜릿, 젤리/01-1_(petitzel).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_11.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-1. 초콜릿, 젤리/01-2_(petitzel).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_12.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-1. 초콜릿, 젤리/02-1_(top_fruit).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_13.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-1. 초콜릿, 젤리/02-2_(top_fruit).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_14.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-1. 초콜릿, 젤리/03-1_(Haribo).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_15.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-1. 초콜릿, 젤리/03-2_(Haribo).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_16.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-1. 초콜릿, 젤리/04-1_(kitkat).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_17.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-1. 초콜릿, 젤리/04-2_(kitkat).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_18.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-1. 초콜릿, 젤리/05-1_(Dr.You).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_19.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-1. 초콜릿, 젤리/05-2_(Dr.You).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_20.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-2. 과자, 간식/06-1_(Milk_classic).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-2. 과자, 간식/06-2_(Milk_classic).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-2. 과자, 간식/07-1_(Shrimpkkang).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-2. 과자, 간식/07-2_(Shrimpkkang).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-2. 과자, 간식/08-1_(macaroni).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_5.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-2. 과자, 간식/08-2_(macaroni).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_6.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-2. 과자, 간식/09-1_(Lay's).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_7.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-2. 과자, 간식/09-2_(Lay's).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_8.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-2. 과자, 간식/10-1_(castard).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_9.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/1-2. 과자, 간식/10-2_(castard).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_10.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-1. 레드와인/11-1_(finca_el_origin_malbec).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_21.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-1. 레드와인/11-2_(finca_el_origin_malbec).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_22.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-1. 레드와인/12-1_(Vineam).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_23.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-1. 레드와인/12-2_(Vineam).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_24.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-1. 레드와인/13-1_(rendez_vous).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_25.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-1. 레드와인/13-2_(rendez_vous).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_26.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-1. 레드와인/14-1_(Yumi's).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_27.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-1. 레드와인/14-2_(Yumi's).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_28.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-1. 레드와인/15-1_(hacker).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_29.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-1. 레드와인/15-2_(hacker).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_30.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-2. 화이트,로제 와인/16-1_(stonebay).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_31.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-2. 화이트,로제 와인/16-2_(stonebay).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_32.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-2. 화이트,로제 와인/17-1_(costa).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_33.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-2. 화이트,로제 와인/17-2_(costa).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_34.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-2. 화이트,로제 와인/18-1_(grovemill).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_35.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-2. 화이트,로제 와인/18-2_(grovemill).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_36.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-2. 화이트,로제 와인/19-1_(russian).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_37.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-2. 화이트,로제 와인/19-2_(russian).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_38.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-2. 화이트,로제 와인/20-1_(decoy).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_39.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/2-2. 화이트,로제 와인/20-2_(decoy).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_40.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-1. 우유, 두유/21-1_(banana_milk).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_41.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-1. 우유, 두유/21-2_(banana_milk).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_42.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-1. 우유, 두유/22-1_(coffee_milk).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_43.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-1. 우유, 두유/22-2_(coffee_milk).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_44.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-1. 우유, 두유/23-1_(yonsei_milk).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_45.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-1. 우유, 두유/23-2_(yonsei_milk).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_46.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-1. 우유, 두유/24-1_(vegemilB).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_47.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-1. 우유, 두유/24-2_(vegemilB).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_48.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-1. 우유, 두유/25-1_(Maeil_doyou).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_49.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-1. 우유, 두유/25-2_(Maeil_doyou).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_50.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-2. 아이스크림/26-1_(Haagen_dazs).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_51.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-2. 아이스크림/26-2_(Haagen_dazs).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_52.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-2. 아이스크림/27-1_(Lala_sweet).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_53.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-2. 아이스크림/27-2_(Lala_sweet).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_54.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-2. 아이스크림/28-1_(Natuur).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_55.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-2. 아이스크림/28-2_(Natuur).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_56.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-2. 아이스크림/29-1_(bibibic).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_57.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-2. 아이스크림/29-2_(bibibic).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_58.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-2. 아이스크림/30-1_(melona).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_59.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/3-2. 아이스크림/30-2_(melona).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_60.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-1. 소고기/31-1_(beef_soup).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_61.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-1. 소고기/31-2_(beef_soup).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_62.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-1. 소고기/32-1_(beef_sirloin).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_63.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-1. 소고기/32-2_(beef_sirloin).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_64.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-1. 소고기/33-1_(beef_bulgogi).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_65.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-1. 소고기/33-2_(beef_bulgogi).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_66.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-1. 소고기/34-1_(beef_belly).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_67.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-1. 소고기/34-2_(beef_belly).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_68.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-1. 소고기/35-1_(beef_tender).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_69.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-1. 소고기/35-2_(beef_tender).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_70.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-2. 돼지고기/36-1_(pork_belly).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_71.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-2. 돼지고기/36-2_(pork_belly).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_72.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-2. 돼지고기/37-1_(pork_backrib).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_73.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-2. 돼지고기/37-2_(pork_backrib).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_74.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-2. 돼지고기/38-1_(pork_neck).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_75.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-2. 돼지고기/38-2_(pork_neck).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_76.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-2. 돼지고기/39-1_(pork_sirloin).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_77.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-2. 돼지고기/39-2_(pork_sirloin).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_78.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-2. 돼지고기/40-1_(pork_cutlet).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_79.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/4-2. 돼지고기/40-2_(pork_cutlet).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data_image/image_80.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_data_image/all dummy data image.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2kPjhtBEu2h3Ig7tqpvp9QEr9Bn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging SCRUM-17-RecSys-Model"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-afb2d50b81ac-2ff200790375-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-241.18034.23" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
