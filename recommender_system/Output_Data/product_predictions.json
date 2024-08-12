@@ -14,7 +14,9 @@
         "cart_id": null,
         "member_id": 4,
         "review_star": 3.28,
-        "product_quanity": 347
+        "product_quanity": 347,
+        "category_encoded": 0,
+        "predicted_review_star": 3.35
     },
     {
         "product_id": 2,
@@ -31,7 +33,9 @@
         "cart_id": null,
         "member_id": 3,
         "review_star": 2.62,
-        "product_quanity": 470
+        "product_quanity": 470,
+        "category_encoded": 0,
+        "predicted_review_star": 3.3
     },
     {
         "product_id": 3,
@@ -48,7 +52,9 @@
         "cart_id": null,
         "member_id": 6,
         "review_star": 4.11,
-        "product_quanity": 354
+        "product_quanity": 354,
+        "category_encoded": 0,
+        "predicted_review_star": 3.09
     },
     {
         "product_id": 4,
@@ -65,7 +71,9 @@
         "cart_id": null,
         "member_id": 3,
         "review_star": 4.74,
-        "product_quanity": 358
+        "product_quanity": 358,
+        "category_encoded": 0,
+        "predicted_review_star": 3.36
     },
     {
         "product_id": 5,
@@ -82,7 +90,9 @@
         "cart_id": null,
         "member_id": 7,
         "review_star": 3.3,
-        "product_quanity": 182
+        "product_quanity": 182,
+        "category_encoded": 0,
+        "predicted_review_star": 2.75
     },
     {
         "product_id": 6,
@@ -99,7 +109,9 @@
         "cart_id": null,
         "member_id": 4,
         "review_star": 2.83,
-        "product_quanity": 87
+        "product_quanity": 87,
+        "category_encoded": 0,
+        "predicted_review_star": 2.82
     },
     {
         "product_id": 7,
@@ -116,7 +128,9 @@
         "cart_id": null,
         "member_id": 4,
         "review_star": 4.69,
-        "product_quanity": 451
+        "product_quanity": 451,
+        "category_encoded": 0,
+        "predicted_review_star": 3.5
     },
     {
         "product_id": 8,
@@ -133,7 +147,9 @@
         "cart_id": null,
         "member_id": 10,
         "review_star": 3.31,
-        "product_quanity": 325
+        "product_quanity": 325,
+        "category_encoded": 0,
+        "predicted_review_star": 3.2
     },
     {
         "product_id": 9,
@@ -150,7 +166,9 @@
         "cart_id": null,
         "member_id": 10,
         "review_star": 1.07,
-        "product_quanity": 233
+        "product_quanity": 233,
+        "category_encoded": 0,
+        "predicted_review_star": 2.86
     },
     {
         "product_id": 10,
@@ -167,7 +185,9 @@
         "cart_id": null,
         "member_id": 6,
         "review_star": 2.08,
-        "product_quanity": 57
+        "product_quanity": 57,
+        "category_encoded": 0,
+        "predicted_review_star": 2.86
     },
     {
         "product_id": 11,
@@ -184,7 +204,9 @@
         "cart_id": null,
         "member_id": 2,
         "review_star": 4.89,
-        "product_quanity": 247
+        "product_quanity": 247,
+        "category_encoded": 1,
+        "predicted_review_star": 3.18
     },
     {
         "product_id": 12,
@@ -201,7 +223,9 @@
         "cart_id": null,
         "member_id": 9,
         "review_star": 3.08,
-        "product_quanity": 386
+        "product_quanity": 386,
+        "category_encoded": 1,
+        "predicted_review_star": 3.34
     },
     {
         "product_id": 13,
@@ -218,7 +242,9 @@
         "cart_id": null,
         "member_id": 10,
         "review_star": 3.01,
-        "product_quanity": 51
+        "product_quanity": 51,
+        "category_encoded": 1,
+        "predicted_review_star": 2.51
     },
     {
         "product_id": 14,
@@ -235,7 +261,9 @@
         "cart_id": null,
         "member_id": 10,
         "review_star": 4.03,
-        "product_quanity": 423
+        "product_quanity": 423,
+        "category_encoded": 1,
+        "predicted_review_star": 3.11
     },
     {
         "product_id": 15,
@@ -252,7 +280,9 @@
         "cart_id": null,
         "member_id": 6,
         "review_star": 3.98,
-        "product_quanity": 208
+        "product_quanity": 208,
+        "category_encoded": 1,
+        "predicted_review_star": 2.98
     },
     {
         "product_id": 16,
@@ -269,7 +299,9 @@
         "cart_id": null,
         "member_id": 9,
         "review_star": 2.51,
-        "product_quanity": 388
+        "product_quanity": 388,
+        "category_encoded": 1,
+        "predicted_review_star": 3.4
     },
     {
         "product_id": 17,
@@ -286,7 +318,9 @@
         "cart_id": null,
         "member_id": 8,
         "review_star": 3.12,
-        "product_quanity": 211
+        "product_quanity": 211,
+        "category_encoded": 1,
+        "predicted_review_star": 3.26
     },
     {
         "product_id": 18,
@@ -303,7 +337,9 @@
         "cart_id": null,
         "member_id": 9,
         "review_star": 1.22,
-        "product_quanity": 362
+        "product_quanity": 362,
+        "category_encoded": 1,
+        "predicted_review_star": 2.99
     },
     {
         "product_id": 19,
@@ -320,7 +356,9 @@
         "cart_id": null,
         "member_id": 2,
         "review_star": 1.87,
-        "product_quanity": 71
+        "product_quanity": 71,
+        "category_encoded": 1,
+        "predicted_review_star": 2.63
     },
     {
         "product_id": 20,
@@ -337,7 +375,9 @@
         "cart_id": null,
         "member_id": 10,
         "review_star": 2.85,
-        "product_quanity": 67
+        "product_quanity": 67,
+        "category_encoded": 1,
+        "predicted_review_star": 3.06
     },
     {
         "product_id": 21,
@@ -354,7 +394,9 @@
         "cart_id": null,
         "member_id": 9,
         "review_star": 1.76,
-        "product_quanity": 103
+        "product_quanity": 103,
+        "category_encoded": 2,
+        "predicted_review_star": 2.8
     },
     {
         "product_id": 22,
@@ -371,7 +413,9 @@
         "cart_id": null,
         "member_id": 8,
         "review_star": 1.94,
-        "product_quanity": 133
+        "product_quanity": 133,
+        "category_encoded": 2,
+        "predicted_review_star": 2.65
     },
     {
         "product_id": 23,
@@ -388,7 +432,9 @@
         "cart_id": null,
         "member_id": 7,
         "review_star": 1.67,
-        "product_quanity": 383
+        "product_quanity": 383,
+        "category_encoded": 2,
+        "predicted_review_star": 3.11
     },
     {
         "product_id": 24,
@@ -405,7 +451,9 @@
         "cart_id": null,
         "member_id": 7,
         "review_star": 4.85,
-        "product_quanity": 443
+        "product_quanity": 443,
+        "category_encoded": 2,
+        "predicted_review_star": 3.2
     },
     {
         "product_id": 25,
@@ -422,7 +470,9 @@
         "cart_id": null,
         "member_id": 4,
         "review_star": 3.51,
-        "product_quanity": 177
+        "product_quanity": 177,
+        "category_encoded": 2,
+        "predicted_review_star": 2.85
     },
     {
         "product_id": 26,
@@ -439,7 +489,9 @@
         "cart_id": null,
         "member_id": 3,
         "review_star": 4.97,
-        "product_quanity": 127
+        "product_quanity": 127,
+        "category_encoded": 2,
+        "predicted_review_star": 2.93
     },
     {
         "product_id": 27,
@@ -456,7 +508,9 @@
         "cart_id": null,
         "member_id": 10,
         "review_star": 4.61,
-        "product_quanity": 492
+        "product_quanity": 492,
+        "category_encoded": 2,
+        "predicted_review_star": 3.65
     },
     {
         "product_id": 28,
@@ -473,7 +527,9 @@
         "cart_id": null,
         "member_id": 1,
         "review_star": 1.16,
-        "product_quanity": 294
+        "product_quanity": 294,
+        "category_encoded": 2,
+        "predicted_review_star": 3.31
     },
     {
         "product_id": 29,
@@ -490,7 +546,9 @@
         "cart_id": null,
         "member_id": 8,
         "review_star": 2.76,
-        "product_quanity": 305
+        "product_quanity": 305,
+        "category_encoded": 2,
+        "predicted_review_star": 2.81
     },
     {
         "product_id": 30,
@@ -507,7 +565,9 @@
         "cart_id": null,
         "member_id": 5,
         "review_star": 3.55,
-        "product_quanity": 424
+        "product_quanity": 424,
+        "category_encoded": 2,
+        "predicted_review_star": 3.36
     },
     {
         "product_id": 31,
@@ -524,7 +584,9 @@
         "cart_id": null,
         "member_id": 9,
         "review_star": 1.27,
-        "product_quanity": 440
+        "product_quanity": 440,
+        "category_encoded": 3,
+        "predicted_review_star": 2.87
     },
     {
         "product_id": 32,
@@ -541,7 +603,9 @@
         "cart_id": null,
         "member_id": 5,
         "review_star": 1.43,
-        "product_quanity": 148
+        "product_quanity": 148,
+        "category_encoded": 3,
+        "predicted_review_star": 2.92
     },
     {
         "product_id": 33,
@@ -558,7 +622,9 @@
         "cart_id": null,
         "member_id": 9,
         "review_star": 3.3,
-        "product_quanity": 361
+        "product_quanity": 361,
+        "category_encoded": 3,
+        "predicted_review_star": 3.08
     },
     {
         "product_id": 34,
@@ -575,7 +641,9 @@
         "cart_id": null,
         "member_id": 6,
         "review_star": 1.09,
-        "product_quanity": 151
+        "product_quanity": 151,
+        "category_encoded": 3,
+        "predicted_review_star": 3.05
     },
     {
         "product_id": 35,
@@ -592,7 +660,9 @@
         "cart_id": null,
         "member_id": 1,
         "review_star": 1.24,
-        "product_quanity": 375
+        "product_quanity": 375,
+        "category_encoded": 3,
+        "predicted_review_star": 3.18
     },
     {
         "product_id": 36,
@@ -609,7 +679,9 @@
         "cart_id": null,
         "member_id": 7,
         "review_star": 2.7,
-        "product_quanity": 296
+        "product_quanity": 296,
+        "category_encoded": 3,
+        "predicted_review_star": 3.32
     },
     {
         "product_id": 37,
@@ -626,7 +698,9 @@
         "cart_id": null,
         "member_id": 4,
         "review_star": 3.6,
-        "product_quanity": 169
+        "product_quanity": 169,
+        "category_encoded": 3,
+        "predicted_review_star": 3.08
     },
     {
         "product_id": 38,
@@ -643,7 +717,9 @@
         "cart_id": null,
         "member_id": 9,
         "review_star": 4.19,
-        "product_quanity": 487
+        "product_quanity": 487,
+        "category_encoded": 3,
+        "predicted_review_star": 3.3
     },
     {
         "product_id": 39,
@@ -660,7 +736,9 @@
         "cart_id": null,
         "member_id": 3,
         "review_star": 1.84,
-        "product_quanity": 274
+        "product_quanity": 274,
+        "category_encoded": 3,
+        "predicted_review_star": 3.22
     },
     {
         "product_id": 40,
@@ -677,7 +755,9 @@
         "cart_id": null,
         "member_id": 3,
         "review_star": 3.62,
-        "product_quanity": 358
+        "product_quanity": 358,
+        "category_encoded": 3,
+        "predicted_review_star": 3.47
     },
     {
         "product_id": 41,
@@ -694,7 +774,9 @@
         "cart_id": null,
         "member_id": 6,
         "review_star": 4.92,
-        "product_quanity": 384
+        "product_quanity": 384,
+        "category_encoded": 5,
+        "predicted_review_star": 3.41
     },
     {
         "product_id": 42,
@@ -711,7 +793,9 @@
         "cart_id": null,
         "member_id": 8,
         "review_star": 4.99,
-        "product_quanity": 435
+        "product_quanity": 435,
+        "category_encoded": 5,
+        "predicted_review_star": 3.28
     },
     {
         "product_id": 43,
@@ -728,7 +812,9 @@
         "cart_id": null,
         "member_id": 6,
         "review_star": 3.14,
-        "product_quanity": 249
+        "product_quanity": 249,
+        "category_encoded": 5,
+        "predicted_review_star": 2.93
     },
     {
         "product_id": 44,
@@ -745,7 +831,9 @@
         "cart_id": null,
         "member_id": 10,
         "review_star": 2.37,
-        "product_quanity": 276
+        "product_quanity": 276,
+        "category_encoded": 5,
+        "predicted_review_star": 3.13
     },
     {
         "product_id": 45,
@@ -762,7 +850,9 @@
         "cart_id": null,
         "member_id": 3,
         "review_star": 3.15,
-        "product_quanity": 291
+        "product_quanity": 291,
+        "category_encoded": 5,
+        "predicted_review_star": 3.09
     },
     {
         "product_id": 46,
@@ -779,7 +869,9 @@
         "cart_id": null,
         "member_id": 10,
         "review_star": 3.15,
-        "product_quanity": 361
+        "product_quanity": 361,
+        "category_encoded": 5,
+        "predicted_review_star": 3.33
     },
     {
         "product_id": 47,
@@ -796,7 +888,9 @@
         "cart_id": null,
         "member_id": 6,
         "review_star": 3.78,
-        "product_quanity": 192
+        "product_quanity": 192,
+        "category_encoded": 5,
+        "predicted_review_star": 3.02
     },
     {
         "product_id": 48,
@@ -813,7 +907,9 @@
         "cart_id": null,
         "member_id": 5,
         "review_star": 3.29,
-        "product_quanity": 493
+        "product_quanity": 493,
+        "category_encoded": 5,
+        "predicted_review_star": 3.36
     },
     {
         "product_id": 49,
@@ -830,7 +926,9 @@
         "cart_id": null,
         "member_id": 2,
         "review_star": 2.86,
-        "product_quanity": 255
+        "product_quanity": 255,
+        "category_encoded": 5,
+        "predicted_review_star": 3.31
     },
     {
         "product_id": 50,
@@ -847,7 +945,9 @@
         "cart_id": null,
         "member_id": 7,
         "review_star": 4.57,
-        "product_quanity": 84
+        "product_quanity": 84,
+        "category_encoded": 5,
+        "predicted_review_star": 3.09
     },
     {
         "product_id": 51,
@@ -864,7 +964,9 @@
         "cart_id": null,
         "member_id": 5,
         "review_star": 4.99,
-        "product_quanity": 407
+        "product_quanity": 407,
+        "category_encoded": 4,
+        "predicted_review_star": 3.12
     },
     {
         "product_id": 52,
@@ -881,7 +983,9 @@
         "cart_id": null,
         "member_id": 7,
         "review_star": 2.77,
-        "product_quanity": 366
+        "product_quanity": 366,
+        "category_encoded": 4,
+        "predicted_review_star": 3.08
     },
     {
         "product_id": 53,
@@ -898,7 +1002,9 @@
         "cart_id": null,
         "member_id": 10,
         "review_star": 2.62,
-        "product_quanity": 247
+        "product_quanity": 247,
+        "category_encoded": 4,
+        "predicted_review_star": 3.05
     },
     {
         "product_id": 54,
@@ -915,7 +1021,9 @@
         "cart_id": null,
         "member_id": 3,
         "review_star": 4.21,
-        "product_quanity": 226
+        "product_quanity": 226,
+        "category_encoded": 4,
+        "predicted_review_star": 2.88
     },
     {
         "product_id": 55,
@@ -932,7 +1040,9 @@
         "cart_id": null,
         "member_id": 5,
         "review_star": 4.77,
-        "product_quanity": 63
+        "product_quanity": 63,
+        "category_encoded": 4,
+        "predicted_review_star": 3.12
     },
     {
         "product_id": 56,
@@ -949,7 +1059,9 @@
         "cart_id": null,
         "member_id": 2,
         "review_star": 4.05,
-        "product_quanity": 49
+        "product_quanity": 49,
+        "category_encoded": 4,
+        "predicted_review_star": 3.0
     },
     {
         "product_id": 57,
@@ -966,7 +1078,9 @@
         "cart_id": null,
         "member_id": 8,
         "review_star": 1.87,
-        "product_quanity": 292
+        "product_quanity": 292,
+        "category_encoded": 4,
+        "predicted_review_star": 3.04
     },
     {
         "product_id": 58,
@@ -983,7 +1097,9 @@
         "cart_id": null,
         "member_id": 1,
         "review_star": 1.92,
-        "product_quanity": 231
+        "product_quanity": 231,
+        "category_encoded": 4,
+        "predicted_review_star": 3.39
     },
     {
         "product_id": 59,
@@ -1000,7 +1116,9 @@
         "cart_id": null,
         "member_id": 2,
         "review_star": 3.18,
-        "product_quanity": 23
+        "product_quanity": 23,
+        "category_encoded": 4,
+        "predicted_review_star": 2.85
     },
     {
         "product_id": 60,
@@ -1017,7 +1135,9 @@
         "cart_id": null,
         "member_id": 3,
         "review_star": 2.89,
-        "product_quanity": 317
+        "product_quanity": 317,
+        "category_encoded": 4,
+        "predicted_review_star": 3.29
     },
     {
         "product_id": 61,
@@ -1034,7 +1154,9 @@
         "cart_id": null,
         "member_id": 2,
         "review_star": 2.16,
-        "product_quanity": 113
+        "product_quanity": 113,
+        "category_encoded": 7,
+        "predicted_review_star": 2.68
     },
     {
         "product_id": 62,
@@ -1051,7 +1173,9 @@
         "cart_id": null,
         "member_id": 2,
         "review_star": 1.14,
-        "product_quanity": 235
+        "product_quanity": 235,
+        "category_encoded": 7,
+        "predicted_review_star": 3.33
     },
     {
         "product_id": 63,
@@ -1068,7 +1192,9 @@
         "cart_id": null,
         "member_id": 2,
         "review_star": 3.33,
-        "product_quanity": 92
+        "product_quanity": 92,
+        "category_encoded": 7,
+        "predicted_review_star": 2.86
     },
     {
         "product_id": 64,
@@ -1085,7 +1211,9 @@
         "cart_id": null,
         "member_id": 10,
         "review_star": 3.88,
-        "product_quanity": 191
+        "product_quanity": 191,
+        "category_encoded": 7,
+        "predicted_review_star": 3.15
     },
     {
         "product_id": 65,
@@ -1102,7 +1230,9 @@
         "cart_id": null,
         "member_id": 10,
         "review_star": 1.49,
-        "product_quanity": 351
+        "product_quanity": 351,
+        "category_encoded": 7,
+        "predicted_review_star": 3.03
     },
     {
         "product_id": 66,
@@ -1119,7 +1249,9 @@
         "cart_id": null,
         "member_id": 2,
         "review_star": 2.23,
-        "product_quanity": 363
+        "product_quanity": 363,
+        "category_encoded": 7,
+        "predicted_review_star": 2.96
     },
     {
         "product_id": 67,
@@ -1136,7 +1268,9 @@
         "cart_id": null,
         "member_id": 1,
         "review_star": 4.56,
-        "product_quanity": 192
+        "product_quanity": 192,
+        "category_encoded": 7,
+        "predicted_review_star": 2.94
     },
     {
         "product_id": 68,
@@ -1153,7 +1287,9 @@
         "cart_id": null,
         "member_id": 2,
         "review_star": 2.17,
-        "product_quanity": 120
+        "product_quanity": 120,
+        "category_encoded": 7,
+        "predicted_review_star": 2.76
     },
     {
         "product_id": 69,
@@ -1170,7 +1306,9 @@
         "cart_id": null,
         "member_id": 3,
         "review_star": 1.4,
-        "product_quanity": 414
+        "product_quanity": 414,
+        "category_encoded": 7,
+        "predicted_review_star": 3.0
     },
     {
         "product_id": 70,
@@ -1187,7 +1325,9 @@
         "cart_id": null,
         "member_id": 2,
         "review_star": 3.44,
-        "product_quanity": 229
+        "product_quanity": 229,
+        "category_encoded": 7,
+        "predicted_review_star": 2.89
     },
     {
         "product_id": 71,
@@ -1204,7 +1344,9 @@
         "cart_id": null,
         "member_id": 9,
         "review_star": 4.85,
-        "product_quanity": 141
+        "product_quanity": 141,
+        "category_encoded": 6,
+        "predicted_review_star": 2.55
     },
     {
         "product_id": 72,
@@ -1221,7 +1363,9 @@
         "cart_id": null,
         "member_id": 2,
         "review_star": 2.71,
-        "product_quanity": 343
+        "product_quanity": 343,
+        "category_encoded": 6,
+        "predicted_review_star": 3.26
     },
     {
         "product_id": 73,
@@ -1238,7 +1382,9 @@
         "cart_id": null,
         "member_id": 9,
         "review_star": 1.75,
-        "product_quanity": 220
+        "product_quanity": 220,
+        "category_encoded": 6,
+        "predicted_review_star": 2.82
     },
     {
         "product_id": 74,
@@ -1255,7 +1401,9 @@
         "cart_id": null,
         "member_id": 4,
         "review_star": 1.95,
-        "product_quanity": 210
+        "product_quanity": 210,
+        "category_encoded": 6,
+        "predicted_review_star": 3.18
     },
     {
         "product_id": 75,
@@ -1272,7 +1420,9 @@
         "cart_id": null,
         "member_id": 9,
         "review_star": 3.73,
-        "product_quanity": 490
+        "product_quanity": 490,
+        "category_encoded": 6,
+        "predicted_review_star": 3.36
     },
     {
         "product_id": 76,
@@ -1289,7 +1439,9 @@
         "cart_id": null,
         "member_id": 3,
         "review_star": 1.37,
-        "product_quanity": 241
+        "product_quanity": 241,
+        "category_encoded": 6,
+        "predicted_review_star": 3.18
     },
     {
         "product_id": 77,
@@ -1306,7 +1458,9 @@
         "cart_id": null,
         "member_id": 2,
         "review_star": 2.73,
-        "product_quanity": 366
+        "product_quanity": 366,
+        "category_encoded": 6,
+        "predicted_review_star": 3.44
     },
     {
         "product_id": 78,
@@ -1323,7 +1477,9 @@
         "cart_id": null,
         "member_id": 3,
         "review_star": 4.72,
-        "product_quanity": 65
+        "product_quanity": 65,
+        "category_encoded": 6,
+        "predicted_review_star": 2.87
     },
     {
         "product_id": 79,
@@ -1340,7 +1496,9 @@
         "cart_id": null,
         "member_id": 7,
         "review_star": 3.02,
-        "product_quanity": 362
+        "product_quanity": 362,
+        "category_encoded": 6,
+        "predicted_review_star": 3.18
     },
     {
         "product_id": 80,
@@ -1357,6 +1515,8 @@
         "cart_id": null,
         "member_id": 10,
         "review_star": 3.53,
-        "product_quanity": 78
+        "product_quanity": 78,
+        "category_encoded": 6,
+        "predicted_review_star": 3.2
     }
 ]
