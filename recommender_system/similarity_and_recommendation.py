@@ -1,4 +1,5 @@
 from sklearn.metrics.pairwise import cosine_similarity
+import pandas as pd
 
 def calculate_similarity_and_recommend(products_df):
     user_item_matrix = products_df.pivot(index='member_id', columns='product_id', values='review_star').fillna(0)

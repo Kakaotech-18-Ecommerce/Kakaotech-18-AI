@@ -1,2 +1,2 @@
-.DS_Store
-.venv
+.DS_Store.
+/recommender_system/venv/

@@ -10,7 +10,7 @@ def load_and_preprocess_data(file_path):
     
     # 전처리 단계
     label_encoder = LabelEncoder()
-    df['category'] = label_encoder.fit_transform(df['category'])
+    df['category_encoded'] = label_encoder.fit_transform(df['category'])
     df = df.dropna(subset=['review_star'])
 
     return df, label_encoder
