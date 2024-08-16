@@ -1,2 +1,5 @@
+# 상위 Directory & 라이브러리 설치 파일 gitignore(커밋 안되게 설정)
+
 .DS_Store.
 /recommender_system/venv/.DS_Store
+/recommender_system/__pycache__
