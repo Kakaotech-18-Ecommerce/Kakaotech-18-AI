@@ -1,3 +1,5 @@
+import pandas as pd
+
 def print_category_recommendations(filtered_data, label_encoder):
     category_mapping = dict(zip(label_encoder.classes_, range(len(label_encoder.classes_))))
     
