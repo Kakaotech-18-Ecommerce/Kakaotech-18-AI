@@ -1,8 +1,9 @@
 from whoosh.index import open_dir
 from whoosh.qparser import MultifieldParser
+from whoosh.query import Term
 
 # 검색 기능 구현
-def search(query_str):
+def search(query_str, category_filter=None):
     # 인덱스 열기
     index = open_dir("search_engine/data/index")
     
@@ -11,6 +12,12 @@ def search(query_str):
 
     with index.searcher() as searcher:
         query = parser.parse(query_str)
+
+        # 카테고리 필터링 기능 추가
+        if category_filter:
+            category_query = Term("category", category_filter)
+            query = query & category_query
+
         results = searcher.search(query)
         
         # 검색 결과를 출력
@@ -23,4 +30,5 @@ def search(query_str):
 # 예시 검색
 if __name__ == "__main__":
     query = input("Enter your search query: ")
-    search(query)
+    category = input("Enter category to filter (or press Enter to skip): ")
+    search(query, category_filter=category if category else None)
