@@ -1,7 +1,7 @@
 # utils.py 파일은 프로젝트에서 공통적으로 사용할 유틸리티 함수들을 정의
 
 import logging
-from config import LOG_FILE
+from .config import LOG_FILE
 
 def setup_logging():
     """로그 설정 함수."""
@@ -28,7 +28,7 @@ def format_results(results):
             "Product Name": result.get("product_name"),
             "Explanation": result.get("product_explanation"),
             "Category": result.get("category"),
-            "Predicted Review Star": result.get("predicted_review_star", 'N/A')
+            "predicted_review_star": result.get("predicted_review_star", 'N/A')  # 일관된 변수명 사용
         })
     return formatted_results
 
@@ -39,5 +39,5 @@ def print_results(results):
         print(f"Product Name: {result['Product Name']}")
         print(f"Explanation: {result['Explanation']}")
         print(f"Category: {result['Category']}")
-        print(f"Predicted Review Star: {result['Predicted Review Star']}")
+        print(f"Predicted Review Star: {result['predicted_review_star']}")
         print("-" * 20)

@@ -1,8 +1,8 @@
 from whoosh.index import open_dir
 from whoosh.qparser import MultifieldParser
 from whoosh.query import Term
-from config import INDEX_DIR, DEFAULT_SEARCH_FIELDS  # 설정값 가져오기
-from utils import setup_logging, validate_query, format_results, print_results  # 유틸리티 함수 가져오기
+from .config import INDEX_DIR, DEFAULT_SEARCH_FIELDS  # 설정값 가져오기
+from .utils import setup_logging, validate_query, format_results, print_results  # 유틸리티 함수 가져오기
 
 # 검색 기능 구현
 def search(query_str, category_filter=None):
@@ -35,6 +35,9 @@ def search(query_str, category_filter=None):
         formatted_results = format_results(sorted_results)
         print_results(formatted_results)
         logger.info(f"Search completed for query: {query_str} with category filter: {category_filter}")
+        
+        # 결과 반환
+        return formatted_results  # 결과를 반환
 
 # 예시 검색
 if __name__ == "__main__":
