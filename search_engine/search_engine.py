@@ -22,6 +22,7 @@ def search(query_str, category_filter=None):
         
         # 검색 결과를 출력
         for result in results:
+            print(f"Product ID: {result['product_id']}")
             print(f"Product Name: {result['product_name']}")
             print(f"Explanation: {result['product_explanation']}")
             print(f"Category: {result['category']}")
