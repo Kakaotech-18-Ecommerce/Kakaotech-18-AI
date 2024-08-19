@@ -13,6 +13,7 @@ def search(query_str, category_filter=None):
     with index.searcher() as searcher:
         query = parser.parse(query_str)
 
+        # 카테고리 필터링 기능 추가
         if category_filter:
             category_query = Term("category", category_filter)
             query = query & category_query
