@@ -18,14 +18,18 @@ def search(query_str, category_filter=None):
             category_query = Term("category", category_filter)
             query = query & category_query
 
-        results = searcher.search(query)
+        results = searcher.search(query, limit=None)
+        
+        # Convert results to a list and sort by predicted_review_star
+        sorted_results = sorted(list(results), key=lambda x: x.get('predicted_review_star', 0), reverse=True)
         
         # 검색 결과를 출력
-        for result in results:
+        for result in sorted_results:
             print(f"Product ID: {result['product_id']}")
             print(f"Product Name: {result['product_name']}")
             print(f"Explanation: {result['product_explanation']}")
             print(f"Category: {result['category']}")
+            print(f"Predicted Review Star: {result.get('predicted_review_star', 'N/A')}")
             print("-" * 20)
 
 # 예시 검색
