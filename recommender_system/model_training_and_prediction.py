@@ -74,9 +74,6 @@ def train_and_predict(filtered_data):
         results["MAPE"].append(mape)
         predictions.append(model.predict(X_test))
 
-        print(f'{name} - MSE: {mse}, MAE: {mae}, RMSE: {rmse}, R-squared: {r2}, MAPE: {mape}')
-
-
     # 앙상블(평균 앙상블) 예측
     ensemble_prediction = np.mean(predictions, axis=0)
 
@@ -94,8 +91,6 @@ def train_and_predict(filtered_data):
     results["RMSE"].append(ensemble_rmse)
     results["R-squared"].append(ensemble_r2)
     results["MAPE"].append(ensemble_mape)
-
-    print(f'Ensemble - MSE: {ensemble_mse}, MAE: {ensemble_mae}, RMSE: {ensemble_rmse}, R-squared: {ensemble_r2}, MAPE: {ensemble_mape}')
 
     # 최종 예측을 위해 전체 데이터에 대해 앙상블 모델 적용
     all_predictions = []
