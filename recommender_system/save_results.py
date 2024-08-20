@@ -1,6 +1,6 @@
 import json
 import pandas as pd
-from model_training_and_prediction import train_and_predict  # 모델 학습 및 예측 함수 임포트
+from .model_training_and_prediction import train_and_predict  # 상대 경로로 수정 & 모델 학습 및 예측 함수 임포트
 
 def save_to_csv(filtered_data, output_filename):
     filtered_data.to_csv(output_filename, index=False)
