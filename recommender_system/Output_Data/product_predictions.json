@@ -16,7 +16,7 @@
         "review_star": 4.8,
         "product_quanity": 450,
         "category_encoded": 0,
-        "predicted_review_star": 4.72
+        "predicted_review_star": 4.58
     },
     {
         "product_id": 2,
@@ -35,7 +35,7 @@
         "review_star": 4.9,
         "product_quanity": 480,
         "category_encoded": 0,
-        "predicted_review_star": 4.85
+        "predicted_review_star": 4.75
     },
     {
         "product_id": 3,
@@ -54,7 +54,7 @@
         "review_star": 4.75,
         "product_quanity": 400,
         "category_encoded": 0,
-        "predicted_review_star": 4.37
+        "predicted_review_star": 4.56
     },
     {
         "product_id": 4,
@@ -73,7 +73,7 @@
         "review_star": 4.5,
         "product_quanity": 470,
         "category_encoded": 0,
-        "predicted_review_star": 4.61
+        "predicted_review_star": 4.5
     },
     {
         "product_id": 5,
@@ -92,7 +92,7 @@
         "review_star": 4.7,
         "product_quanity": 370,
         "category_encoded": 0,
-        "predicted_review_star": 4.24
+        "predicted_review_star": 4.5
     },
     {
         "product_id": 6,
@@ -111,7 +111,7 @@
         "review_star": 3.9,
         "product_quanity": 300,
         "category_encoded": 0,
-        "predicted_review_star": 3.87
+        "predicted_review_star": 4.06
     },
     {
         "product_id": 7,
@@ -130,7 +130,7 @@
         "review_star": 4.85,
         "product_quanity": 490,
         "category_encoded": 0,
-        "predicted_review_star": 4.66
+        "predicted_review_star": 4.73
     },
     {
         "product_id": 8,
@@ -149,7 +149,7 @@
         "review_star": 4.3,
         "product_quanity": 450,
         "category_encoded": 0,
-        "predicted_review_star": 4.64
+        "predicted_review_star": 4.46
     },
     {
         "product_id": 9,
@@ -168,7 +168,7 @@
         "review_star": 4.7,
         "product_quanity": 400,
         "category_encoded": 0,
-        "predicted_review_star": 4.39
+        "predicted_review_star": 4.57
     },
     {
         "product_id": 10,
@@ -187,7 +187,7 @@
         "review_star": 4.75,
         "product_quanity": 350,
         "category_encoded": 0,
-        "predicted_review_star": 4.09
+        "predicted_review_star": 4.46
     },
     {
         "product_id": 11,
@@ -206,7 +206,7 @@
         "review_star": 4.85,
         "product_quanity": 490,
         "category_encoded": 1,
-        "predicted_review_star": 4.6
+        "predicted_review_star": 4.59
     },
     {
         "product_id": 12,
@@ -225,7 +225,7 @@
         "review_star": 3.75,
         "product_quanity": 350,
         "category_encoded": 1,
-        "predicted_review_star": 3.97
+        "predicted_review_star": 3.96
     },
     {
         "product_id": 13,
@@ -244,7 +244,7 @@
         "review_star": 3.5,
         "product_quanity": 275,
         "category_encoded": 1,
-        "predicted_review_star": 3.7
+        "predicted_review_star": 4.05
     },
     {
         "product_id": 14,
@@ -263,7 +263,7 @@
         "review_star": 4.2,
         "product_quanity": 475,
         "category_encoded": 1,
-        "predicted_review_star": 4.64
+        "predicted_review_star": 4.44
     },
     {
         "product_id": 15,
@@ -282,7 +282,7 @@
         "review_star": 4.0,
         "product_quanity": 400,
         "category_encoded": 1,
-        "predicted_review_star": 4.18
+        "predicted_review_star": 4.11
     },
     {
         "product_id": 16,
@@ -301,7 +301,7 @@
         "review_star": 3.8,
         "product_quanity": 375,
         "category_encoded": 1,
-        "predicted_review_star": 3.8
+        "predicted_review_star": 3.91
     },
     {
         "product_id": 17,
@@ -320,7 +320,7 @@
         "review_star": 4.1,
         "product_quanity": 480,
         "category_encoded": 1,
-        "predicted_review_star": 4.55
+        "predicted_review_star": 4.4
     },
     {
         "product_id": 18,
@@ -339,7 +339,7 @@
         "review_star": 4.5,
         "product_quanity": 490,
         "category_encoded": 1,
-        "predicted_review_star": 4.61
+        "predicted_review_star": 4.55
     },
     {
         "product_id": 19,
@@ -358,7 +358,7 @@
         "review_star": 4.9,
         "product_quanity": 500,
         "category_encoded": 1,
-        "predicted_review_star": 4.51
+        "predicted_review_star": 4.64
     },
     {
         "product_id": 20,
@@ -377,7 +377,7 @@
         "review_star": 4.75,
         "product_quanity": 490,
         "category_encoded": 1,
-        "predicted_review_star": 4.63
+        "predicted_review_star": 4.69
     },
     {
         "product_id": 21,
@@ -396,7 +396,7 @@
         "review_star": 4.1,
         "product_quanity": 400,
         "category_encoded": 2,
-        "predicted_review_star": 4.2
+        "predicted_review_star": 4.15
     },
     {
         "product_id": 22,
@@ -415,7 +415,7 @@
         "review_star": 4.5,
         "product_quanity": 380,
         "category_encoded": 2,
-        "predicted_review_star": 4.33
+        "predicted_review_star": 4.4
     },
     {
         "product_id": 23,
@@ -434,7 +434,7 @@
         "review_star": 4.0,
         "product_quanity": 375,
         "category_encoded": 2,
-        "predicted_review_star": 4.04
+        "predicted_review_star": 4.13
     },
     {
         "product_id": 24,
@@ -453,7 +453,7 @@
         "review_star": 4.8,
         "product_quanity": 490,
         "category_encoded": 2,
-        "predicted_review_star": 4.73
+        "predicted_review_star": 4.75
     },
     {
         "product_id": 25,
@@ -472,7 +472,7 @@
         "review_star": 4.2,
         "product_quanity": 400,
         "category_encoded": 2,
-        "predicted_review_star": 4.37
+        "predicted_review_star": 4.31
     },
     {
         "product_id": 26,
@@ -491,7 +491,7 @@
         "review_star": 4.5,
         "product_quanity": 350,
         "category_encoded": 2,
-        "predicted_review_star": 4.14
+        "predicted_review_star": 4.35
     },
     {
         "product_id": 27,
@@ -510,7 +510,7 @@
         "review_star": 4.85,
         "product_quanity": 500,
         "category_encoded": 2,
-        "predicted_review_star": 4.82
+        "predicted_review_star": 4.77
     },
     {
         "product_id": 28,
@@ -529,7 +529,7 @@
         "review_star": 4.0,
         "product_quanity": 375,
         "category_encoded": 2,
-        "predicted_review_star": 4.21
+        "predicted_review_star": 4.15
     },
     {
         "product_id": 29,
@@ -548,7 +548,7 @@
         "review_star": 4.1,
         "product_quanity": 400,
         "category_encoded": 2,
-        "predicted_review_star": 4.41
+        "predicted_review_star": 4.39
     },
     {
         "product_id": 30,
@@ -567,7 +567,7 @@
         "review_star": 4.85,
         "product_quanity": 490,
         "category_encoded": 2,
-        "predicted_review_star": 4.9
+        "predicted_review_star": 4.77
     },
     {
         "product_id": 31,
@@ -586,7 +586,7 @@
         "review_star": 4.2,
         "product_quanity": 420,
         "category_encoded": 3,
-        "predicted_review_star": 4.35
+        "predicted_review_star": 4.23
     },
     {
         "product_id": 32,
@@ -605,7 +605,7 @@
         "review_star": 4.0,
         "product_quanity": 400,
         "category_encoded": 3,
-        "predicted_review_star": 4.17
+        "predicted_review_star": 4.14
     },
     {
         "product_id": 33,
@@ -624,7 +624,7 @@
         "review_star": 4.85,
         "product_quanity": 480,
         "category_encoded": 3,
-        "predicted_review_star": 4.63
+        "predicted_review_star": 4.72
     },
     {
         "product_id": 34,
@@ -643,7 +643,7 @@
         "review_star": 4.0,
         "product_quanity": 390,
         "category_encoded": 3,
-        "predicted_review_star": 4.3
+        "predicted_review_star": 4.22
     },
     {
         "product_id": 35,
@@ -662,7 +662,7 @@
         "review_star": 4.9,
         "product_quanity": 500,
         "category_encoded": 3,
-        "predicted_review_star": 4.91
+        "predicted_review_star": 4.83
     },
     {
         "product_id": 36,
@@ -681,7 +681,7 @@
         "review_star": 4.2,
         "product_quanity": 400,
         "category_encoded": 3,
-        "predicted_review_star": 4.25
+        "predicted_review_star": 4.24
     },
     {
         "product_id": 37,
@@ -700,7 +700,7 @@
         "review_star": 4.1,
         "product_quanity": 400,
         "category_encoded": 3,
-        "predicted_review_star": 4.2
+        "predicted_review_star": 4.15
     },
     {
         "product_id": 38,
@@ -719,7 +719,7 @@
         "review_star": 4.2,
         "product_quanity": 400,
         "category_encoded": 3,
-        "predicted_review_star": 4.23
+        "predicted_review_star": 4.18
     },
     {
         "product_id": 39,
@@ -738,7 +738,7 @@
         "review_star": 4.1,
         "product_quanity": 390,
         "category_encoded": 3,
-        "predicted_review_star": 4.08
+        "predicted_review_star": 4.12
     },
     {
         "product_id": 40,
@@ -757,7 +757,7 @@
         "review_star": 4.0,
         "product_quanity": 400,
         "category_encoded": 3,
-        "predicted_review_star": 4.19
+        "predicted_review_star": 4.13
     },
     {
         "product_id": 41,
@@ -776,7 +776,7 @@
         "review_star": 4.8,
         "product_quanity": 490,
         "category_encoded": 5,
-        "predicted_review_star": 4.62
+        "predicted_review_star": 4.7
     },
     {
         "product_id": 42,
@@ -795,7 +795,7 @@
         "review_star": 4.7,
         "product_quanity": 470,
         "category_encoded": 5,
-        "predicted_review_star": 4.62
+        "predicted_review_star": 4.6
     },
     {
         "product_id": 43,
@@ -833,7 +833,7 @@
         "review_star": 4.1,
         "product_quanity": 400,
         "category_encoded": 5,
-        "predicted_review_star": 4.16
+        "predicted_review_star": 4.14
     },
     {
         "product_id": 45,
@@ -852,7 +852,7 @@
         "review_star": 4.2,
         "product_quanity": 410,
         "category_encoded": 5,
-        "predicted_review_star": 4.22
+        "predicted_review_star": 4.21
     },
     {
         "product_id": 46,
@@ -871,7 +871,7 @@
         "review_star": 4.1,
         "product_quanity": 395,
         "category_encoded": 5,
-        "predicted_review_star": 3.99
+        "predicted_review_star": 4.05
     },
     {
         "product_id": 47,
@@ -909,7 +909,7 @@
         "review_star": 4.1,
         "product_quanity": 390,
         "category_encoded": 5,
-        "predicted_review_star": 4.03
+        "predicted_review_star": 4.08
     },
     {
         "product_id": 49,
@@ -928,7 +928,7 @@
         "review_star": 4.0,
         "product_quanity": 370,
         "category_encoded": 5,
-        "predicted_review_star": 3.9
+        "predicted_review_star": 4.01
     },
     {
         "product_id": 50,
@@ -947,7 +947,7 @@
         "review_star": 4.5,
         "product_quanity": 450,
         "category_encoded": 5,
-        "predicted_review_star": 4.36
+        "predicted_review_star": 4.37
     },
     {
         "product_id": 51,
@@ -966,7 +966,7 @@
         "review_star": 4.9,
         "product_quanity": 490,
         "category_encoded": 4,
-        "predicted_review_star": 4.64
+        "predicted_review_star": 4.74
     },
     {
         "product_id": 52,
@@ -985,7 +985,7 @@
         "review_star": 4.0,
         "product_quanity": 390,
         "category_encoded": 4,
-        "predicted_review_star": 4.03
+        "predicted_review_star": 4.05
     },
     {
         "product_id": 53,
@@ -1004,7 +1004,7 @@
         "review_star": 4.5,
         "product_quanity": 450,
         "category_encoded": 4,
-        "predicted_review_star": 4.42
+        "predicted_review_star": 4.41
     },
     {
         "product_id": 54,
@@ -1023,7 +1023,7 @@
         "review_star": 4.2,
         "product_quanity": 420,
         "category_encoded": 4,
-        "predicted_review_star": 4.24
+        "predicted_review_star": 4.21
     },
     {
         "product_id": 55,
@@ -1042,7 +1042,7 @@
         "review_star": 4.9,
         "product_quanity": 490,
         "category_encoded": 4,
-        "predicted_review_star": 4.62
+        "predicted_review_star": 4.7
     },
     {
         "product_id": 56,
@@ -1061,7 +1061,7 @@
         "review_star": 4.1,
         "product_quanity": 400,
         "category_encoded": 4,
-        "predicted_review_star": 4.08
+        "predicted_review_star": 4.1
     },
     {
         "product_id": 57,
@@ -1080,7 +1080,7 @@
         "review_star": 4.0,
         "product_quanity": 400,
         "category_encoded": 4,
-        "predicted_review_star": 4.13
+        "predicted_review_star": 4.09
     },
     {
         "product_id": 58,
@@ -1099,7 +1099,7 @@
         "review_star": 4.0,
         "product_quanity": 390,
         "category_encoded": 4,
-        "predicted_review_star": 4.05
+        "predicted_review_star": 4.07
     },
     {
         "product_id": 59,
@@ -1118,7 +1118,7 @@
         "review_star": 4.0,
         "product_quanity": 390,
         "category_encoded": 4,
-        "predicted_review_star": 4.02
+        "predicted_review_star": 4.07
     },
     {
         "product_id": 60,
@@ -1137,7 +1137,7 @@
         "review_star": 4.0,
         "product_quanity": 400,
         "category_encoded": 4,
-        "predicted_review_star": 4.12
+        "predicted_review_star": 4.09
     },
     {
         "product_id": 61,
@@ -1156,7 +1156,7 @@
         "review_star": 4.8,
         "product_quanity": 500,
         "category_encoded": 7,
-        "predicted_review_star": 4.54
+        "predicted_review_star": 4.66
     },
     {
         "product_id": 62,
@@ -1175,7 +1175,7 @@
         "review_star": 4.5,
         "product_quanity": 470,
         "category_encoded": 7,
-        "predicted_review_star": 4.56
+        "predicted_review_star": 4.5
     },
     {
         "product_id": 63,
@@ -1194,7 +1194,7 @@
         "review_star": 4.7,
         "product_quanity": 490,
         "category_encoded": 7,
-        "predicted_review_star": 4.47
+        "predicted_review_star": 4.61
     },
     {
         "product_id": 64,
@@ -1213,7 +1213,7 @@
         "review_star": 4.6,
         "product_quanity": 480,
         "category_encoded": 7,
-        "predicted_review_star": 4.62
+        "predicted_review_star": 4.55
     },
     {
         "product_id": 65,
@@ -1232,7 +1232,7 @@
         "review_star": 4.3,
         "product_quanity": 450,
         "category_encoded": 7,
-        "predicted_review_star": 4.52
+        "predicted_review_star": 4.4
     },
     {
         "product_id": 66,
@@ -1251,7 +1251,7 @@
         "review_star": 4.2,
         "product_quanity": 430,
         "category_encoded": 7,
-        "predicted_review_star": 4.31
+        "predicted_review_star": 4.26
     },
     {
         "product_id": 67,
@@ -1270,7 +1270,7 @@
         "review_star": 4.4,
         "product_quanity": 460,
         "category_encoded": 7,
-        "predicted_review_star": 4.42
+        "predicted_review_star": 4.44
     },
     {
         "product_id": 68,
@@ -1289,7 +1289,7 @@
         "review_star": 4.7,
         "product_quanity": 490,
         "category_encoded": 7,
-        "predicted_review_star": 4.62
+        "predicted_review_star": 4.63
     },
     {
         "product_id": 69,
@@ -1308,7 +1308,7 @@
         "review_star": 4.5,
         "product_quanity": 470,
         "category_encoded": 7,
-        "predicted_review_star": 4.55
+        "predicted_review_star": 4.52
     },
     {
         "product_id": 70,
@@ -1327,7 +1327,7 @@
         "review_star": 4.6,
         "product_quanity": 480,
         "category_encoded": 7,
-        "predicted_review_star": 4.57
+        "predicted_review_star": 4.55
     },
     {
         "product_id": 71,
@@ -1346,7 +1346,7 @@
         "review_star": 4.85,
         "product_quanity": 450,
         "category_encoded": 6,
-        "predicted_review_star": 4.27
+        "predicted_review_star": 4.35
     },
     {
         "product_id": 72,
@@ -1365,7 +1365,7 @@
         "review_star": 4.75,
         "product_quanity": 440,
         "category_encoded": 6,
-        "predicted_review_star": 4.71
+        "predicted_review_star": 4.63
     },
     {
         "product_id": 73,
@@ -1384,7 +1384,7 @@
         "review_star": 4.5,
         "product_quanity": 450,
         "category_encoded": 6,
-        "predicted_review_star": 4.72
+        "predicted_review_star": 4.56
     },
     {
         "product_id": 74,
@@ -1403,7 +1403,7 @@
         "review_star": 4.6,
         "product_quanity": 470,
         "category_encoded": 6,
-        "predicted_review_star": 4.59
+        "predicted_review_star": 4.56
     },
     {
         "product_id": 75,
@@ -1422,7 +1422,7 @@
         "review_star": 4.8,
         "product_quanity": 490,
         "category_encoded": 6,
-        "predicted_review_star": 4.83
+        "predicted_review_star": 4.73
     },
     {
         "product_id": 76,
@@ -1441,7 +1441,7 @@
         "review_star": 4.0,
         "product_quanity": 440,
         "category_encoded": 6,
-        "predicted_review_star": 4.55
+        "predicted_review_star": 4.31
     },
     {
         "product_id": 77,
@@ -1460,7 +1460,7 @@
         "review_star": 4.5,
         "product_quanity": 470,
         "category_encoded": 6,
-        "predicted_review_star": 4.55
+        "predicted_review_star": 4.54
     },
     {
         "product_id": 78,
@@ -1479,7 +1479,7 @@
         "review_star": 4.9,
         "product_quanity": 500,
         "category_encoded": 6,
-        "predicted_review_star": 4.67
+        "predicted_review_star": 4.76
     },
     {
         "product_id": 79,
@@ -1498,7 +1498,7 @@
         "review_star": 4.4,
         "product_quanity": 460,
         "category_encoded": 6,
-        "predicted_review_star": 4.51
+        "predicted_review_star": 4.42
     },
     {
         "product_id": 80,
@@ -1517,6 +1517,6 @@
         "review_star": 4.8,
         "product_quanity": 460,
         "category_encoded": 6,
-        "predicted_review_star": 4.58
+        "predicted_review_star": 4.62
     }
 ]
