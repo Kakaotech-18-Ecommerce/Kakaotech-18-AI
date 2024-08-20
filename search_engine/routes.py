@@ -5,17 +5,19 @@ from search_engine.search_engine import search
 # 블루프린트 생성
 search_bp = Blueprint('search_bp', __name__)
 
-@search_bp.route('/search', methods=['POST'])
+@search_bp.route('/search', methods=['POST', 'GET'])
 def search_api():
-    data = request.get_json()
-    query = data.get('query', '')
-    category_filter = data.get('category_filter', None)
+    if request.method == 'POST':
+        data = request.get_json()
+        query = data.get('query', '')
+    elif request.method == 'GET':
+        query = request.args.get('query', '')
 
-    results = search(query, category_filter)
+    # 검색 엔진 호출, 카테고리 필터는 사용하지 않음
+    results = search(query)
 
     response_data = {
         'query': query,
-        'category_filter': category_filter,
         'results': results
     }
     response_json = json.dumps(response_data, ensure_ascii=False)

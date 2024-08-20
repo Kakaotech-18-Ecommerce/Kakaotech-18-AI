@@ -1,11 +1,10 @@
 from whoosh.index import open_dir
 from whoosh.qparser import MultifieldParser
-from whoosh.query import Term
 from .config import INDEX_DIR, DEFAULT_SEARCH_FIELDS  # 설정값 가져오기
 from .utils import setup_logging, validate_query, format_results, print_results  # 유틸리티 함수 가져오기
 
 # 검색 기능 구현
-def search(query_str, category_filter=None):
+def search(query_str):
     # 로그 설정
     logger = setup_logging()
 
@@ -20,12 +19,6 @@ def search(query_str, category_filter=None):
 
     with index.searcher() as searcher:
         query = parser.parse(query_str)
-
-        # 카테고리 필터링 기능 추가
-        if category_filter:
-            category_query = Term("category", category_filter)
-            query = query & category_query
-
         results = searcher.search(query, limit=None)
         
         # Convert results to a list and sort by predicted_review_star
@@ -33,14 +26,12 @@ def search(query_str, category_filter=None):
         
         # 검색 결과를 포맷팅하여 출력
         formatted_results = format_results(sorted_results)
-        print_results(formatted_results)
-        logger.info(f"Search completed for query: {query_str} with category filter: {category_filter}")
+        logger.info(f"Search completed for query: {query_str}")
         
         # 결과 반환
-        return formatted_results  # 결과를 반환
+        return formatted_results
 
 # 예시 검색
 if __name__ == "__main__":
     query = input("Enter your search query: ")
-    category = input("Enter category to filter (or press Enter to skip): ")
-    search(query, category_filter=category if category else None)
+    search(query)
