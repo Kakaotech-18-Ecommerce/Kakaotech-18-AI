@@ -92,4 +92,4 @@ PYTHONPATH=./ pytest tests/
 
 - **로깅**: 검색 엔진에서 발생하는 주요 이벤트는 `search_engine/data/logs/`에 기록됩니다.
 - **데이터 파일**: 검색 인덱스는 `search_engine/data/index/`에 저장됩니다.
-```
+
