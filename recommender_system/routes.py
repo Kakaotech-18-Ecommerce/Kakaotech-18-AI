@@ -8,7 +8,7 @@ from .save_results import save_to_json, save_model_results_to_csv
 # 블루프린트 생성
 recommend_bp = Blueprint('recommend', __name__)
 
-# 데이터를 받아서 dummy_data에 저장하는 엔드포인트
+# 데이터를 받아서 dummy_data에 저장하는 엔드포인트 - 클라이언트가 데이터를 서버로 전송하면, 해당 데이터를 dummy_data 디렉토리에 저장
 @recommend_bp.route('/upload-data', methods=['POST'])
 def upload_data():
     data = request.json
@@ -55,16 +55,23 @@ def predict():
         "message": "Completion of model training results and recommendation scores"
     }), 200
 
-# BE에 파일을 보내는 엔드포인트
+# BE에 파일을 보내는 엔드포인트 -  서버에서 이미 존재하는 파일을 가져오는 요청
 @recommend_bp.route('/send-predictions', methods=['GET'])
 def send_predictions():
+    # 예측 결과 파일이 저장된 디렉토리 경로를 설정합니다.
     output_dir = 'recommender_system/Output_Data'
+    
+    # 예측 결과가 저장된 파일의 경로를 정의합니다.
     product_predictions_path = os.path.join(output_dir, 'product_predictions.json')
 
+    # 예측 결과 파일이 존재하는지 확인합니다.
     if os.path.exists(product_predictions_path):
+        # 파일이 존재할 경우, 해당 파일을 열어서 JSON 데이터를 로드합니다.
         with open(product_predictions_path, 'r', encoding='utf-8') as f:
             product_predictions = json.load(f)
         
+        # 로드한 JSON 데이터를 클라이언트에게 응답으로 반환합니다.
         return jsonify(product_predictions), 200
     else:
+        # 파일이 존재하지 않을 경우, 파일을 찾을 수 없다는 메시지를 클라이언트에게 반환합니다.
         return jsonify({"message": "Prediction file not found"}), 404
