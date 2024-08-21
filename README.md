@@ -1,4 +1,4 @@
-# 골라골라 RecSys(추천 시스템) 및 Search Engin(검색 엔진) API
+# 골라골라 RecSys & Search Engine API
 
 ## 목차
 1. [프로젝트 개요](#프로젝트-개요)
