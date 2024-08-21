@@ -1,95 +1,165 @@
+# 골라골라 RecSys(추천 시스템) 및 Search Engin(검색 엔진) API
 
-이 프로젝트는 골라골라 플랫폼의 검색 엔진을 구현한 것입니다. 사용자는 특정 제품의 이름이나 설명을 검색하여 관련된 제품을 찾을 수 있습니다.
+## 목차r
+1. [프로젝트 개요](#프로젝트-개요)
+2. [프로젝트 목적](#프로젝트-목적)
+3. [주요 기능](#주요-기능)
+4. [사용된 기술 및 라이브러리](#사용된-기술-및-라이브러리)
+5. [설치 방법](#설치-방법)
+6. [실행 방법](#실행-방법)
+7. [API 사용법](#API-사용법)
+8. [개발 과정](#개발-과정)
+9. [파일 구조](#파일-구조)
+10. [기여 방법](#기여-방법)
+11. [라이선스](#라이선스)
+
+## 프로젝트 개요
+이 프로젝트는 간식/과자 등의 제품에 대해 머신러닝 모델을 사용하여 사용자 리뷰 점수를 예측하는 추천 시스템과, 제품 이름이나 설명을 기반으로 관련 제품을 검색할 수 있는 검색 엔진을 포함합니다. Flask 프레임워크를 사용하여 API 형태로 배포되며, 클라이언트는 이 API를 통해 제품 데이터를 업로드하고 예측된 리뷰 점수를 받아보거나 관련 제품을 검색할 수 있습니다.
+
+## 프로젝트 목적
+- 머신러닝을 사용하여 제품 리뷰 점수를 예측하고, 이를 기반으로 사용자에게 추천할 수 있는 시스템을 개발합니다.
+- Flask를 사용하여 API 형태로 배포함으로써 클라이언트가 쉽게 데이터를 업로드하고 결과를 받을 수 있도록 합니다.
+- 제품 이름이나 설명을 기반으로 관련된 제품을 검색할 수 있는 검색 엔진을 제공합니다.
 
 ## 주요 기능
+- **데이터 업로드**: 제품 데이터를 업로드하여 추천 시스템에 학습시킵니다.
+- **리뷰 점수 예측**: 업로드된 데이터를 바탕으로 각 제품의 리뷰 점수를 예측합니다.
+- **예측 결과 반환**: 예측된 리뷰 점수와 제품 ID를 반환합니다.
+- **예측 결과 파일 제공**: 예측 결과를 파일로 제공하는 API를 통해 클라이언트가 결과를 다운로드할 수 있습니다.
 - **검색 엔진**: 제품의 이름이나 설명을 기반으로 관련된 제품을 검색합니다.
 - **정렬 기능**: 검색 결과는 `predicted_review_star`를 기준으로 내림차순 정렬됩니다.
 
-## 프로젝트 구조
-```markdown
-search_engine/
-├── __init__.py
-├── config.py                        # 설정 파일
-├── data                             # 인덱스 및 로그 데이터
-│   ├── index
-│   │   ├── MAIN_WRITELOCK
-│   │   ├── MAIN_gcvh748xna7xdg0t.seg
-│   │   └── _MAIN_1.toc
-│   ├── logs
-│   │   └── search_engine.log        # 검색 엔진 로그 파일
-├── index.py                         # 인덱싱 코드
-├── routes.py                        # 검색 엔진 관련 API 라우트
-├── search_engine.py                 # 검색 엔진 메인 파일
-└── utils.py                         # 유틸리티 함수
+## 사용된 기술 및 라이브러리
+- Python 3.x
+- Flask
+- Pandas
+- Scikit-learn
+- XGBoost
+- LightGBM
+- Whoosh (검색 엔진용)
+
+## 설치 방법
+
+### 1. 클론 레포지토리
+```bash
+git clone https://github.com/your-repository.git
+cd your-repository
+
+### 2. 가상 환경 생성 및 활성화
+```bash
+python3 -m venv venv
+source venv/bin/activate  # macOS/Linux
+venv\Scripts\activate  # Windows
 ```
 
-### 구조 설명
-- **`index.py`**: 검색 엔진에 필요한 인덱스를 생성하는 스크립트입니다.
-- **`search_engine.py`**: 검색 기능을 구현한 메인 모듈입니다.
-- **`routes.py`**: Flask를 통해 API로 검색 엔진을 사용할 수 있도록 라우트를 정의한 파일입니다.
-- **`utils.py`**: 검색 엔진에서 사용하는 유틸리티 함수들이 정의된 파일입니다.
-
-## 설치 및 실행 방법
-
-### 1. 의존성 설치
-프로젝트를 클론한 후, 필요한 패키지를 설치합니다.
-
+### 3. 필요한 패키지 설치
 ```bash
-git clone <repository-url>
-cd Kakaotech-18-AI
 pip install -r requirements.txt
 ```
 
-### 2. 인덱스 생성
-검색 엔진을 사용하기 전에 데이터를 인덱싱해야 합니다.
+## 실행 방법
 
+### 1. 인덱스 생성 (검색 엔진용)
 ```bash
 python search_engine/index.py
 ```
 
-### 3. Flask 서버 실행
-서버를 실행하여 API 엔드포인트를 활성화합니다.
-
+### 2. 서버 실행
 ```bash
 python app.py
 ```
 
 서버는 기본적으로 `http://127.0.0.1:5001`에서 실행됩니다.
 
-## 사용법
+## API 사용법
 
-### 1. 검색 엔진 사용
-사용자는 `/search` 엔드포인트를 통해 제품을 검색할 수 있습니다.
+### 1. 데이터 업로드 (추천 시스템)
+- **엔드포인트**: `/recommend/upload-data`
+- **HTTP 메소드**: `POST`
+- **설명**: 클라이언트가 제품 데이터를 JSON 형태로 업로드합니다.
+- **예시**:
+```bash
+curl -X POST http://127.0.0.1:5001/recommend/upload-data \
+-H "Content-Type: application/json" \
+-d "@/Users/your_username/path_to_your_json_file/products.json"
+```
 
-**POST 요청 예시**:
+### 2. 예측 요청 (추천 시스템)
+- **엔드포인트**: `/recommend/predict`
+- **HTTP 메소드**: `POST`
+- **설명**: 서버에 업로드된 데이터를 바탕으로 제품 리뷰 점수를 예측하고 결과를 반환합니다.
+- **예시**:
+```bash
+curl -X POST http://127.0.0.1:5001/recommend/predict
+```
+
+### 3. 예측 결과 파일 가져오기 (추천 시스템)
+- **엔드포인트**: `/recommend/send-predictions`
+- **HTTP 메소드**: `GET`
+- **설명**: 예측 결과 파일을 JSON 형식으로 반환합니다.
+- **예시**:
+```bash
+curl -X GET http://127.0.0.1:5001/recommend/send-predictions
+```
+
+### 4. 제품 검색 (검색 엔진)
+- **엔드포인트**: `/search`
+- **HTTP 메소드**: `POST`
+- **설명**: 제품의 이름이나 설명을 기반으로 관련된 제품을 검색합니다.
+- **예시**:
 ```bash
 curl -X POST http://127.0.0.1:5001/search \
 -H "Content-Type: application/json" \
 -d '{"query": "초콜릿"}'
 ```
 
-**GET 요청 예시**:
+### 5. GET 방식으로 제품 검색
+- **엔드포인트**: `/search`
+- **HTTP 메소드**: `GET`
+- **설명**: 제품의 이름이나 설명을 기반으로 관련된 제품을 검색합니다.
+- **예시**:
 ```bash
 curl "http://127.0.0.1:5001/search?query=초콜릿"
 ```
 
-### 2. 검색 결과
-검색 결과는 `predicted_review_star` 기준으로 내림차순 정렬되어 반환됩니다.
+## 개발 과정
 
-## 테스트
+### 1. 데이터 로드 및 전처리
+- 추천 시스템의 데이터를 JSON 파일로부터 로드하여 Pandas DataFrame으로 변환합니다.
+- 필요한 특성들에 가중치를 적용하고, 모델 학습을 위해 데이터를 스케일링합니다.
 
-테스트를 실행하여 검색 엔진의 기능이 올바르게 작동하는지 확인할 수 있습니다.
+### 2. 모델 학습 및 예측
+- 다양한 머신러닝 모델을 사용하여 제품 리뷰 점수를 예측합니다.
+  - 선형 회귀, Ridge, Lasso, Random Forest, Gradient Boosting, XGBoost, LightGBM 등.
+- 예측된 결과를 바탕으로 앙상블 모델을 통해 최종 점수를 예측합니다.
 
+### 3. 검색 엔진 구현
+- Whoosh 라이브러리를 사용하여 제품 이름 및 설명에 대한 인덱스를 생성합니다.
+- 사용자가 입력한 쿼리를 기반으로 관련 제품을 검색하고 `predicted_review_star` 기준으로 결과를 정렬합니다.
+
+### 4. 결과 저장 및 반환
+- 예측된 리뷰 점수를 JSON 및 CSV 파일로 저장합니다.
+- 클라이언트의 요청에 따라 예측 결과를 반환하거나 검색 결과를 제공합니다.
+
+## 파일 구조
 ```bash
-PYTHONPATH=./ pytest tests/
+
+/project-root
+│── /dummy_data                # 테스트 데이터 디렉토리
+│   └── products.json          # 테스트용 제품 데이터 파일
+│── /recommender_system        # 추천 시스템 관련 코드 디렉토리
+│   │── /Output_Data           # 모델 결과 저장 디렉토리
+│   │── main.py                # 추천 시스템 메인 실행 파일
+│   │── routes.py              # Flask 블루프린트 정의
+│   │── ...                    # 기타 관련 모듈
+│── /search_engine             # 검색 엔진 관련 코드 디렉토리
+│   │── config.py              # 설정 파일
+│   │── index.py               # 인덱싱 코드
+│   │── routes.py              # 검색 엔진 관련 API 라우트
+│   │── search_engine.py       # 검색 엔진 메인 파일
+│   │── utils.py               # 유틸리티 함수
+│── app.py                     # Flask 애플리케이션 메인 파일
+│── requirements.txt           # 프로젝트 요구사항 파일
+└── README.md                  # 프로젝트 문서화 파일
 ```
-
-이 명령어를 통해 모든 유닛 테스트가 실행됩니다.
-
-## 기타
-
-- **로깅**: 검색 엔진에서 발생하는 주요 이벤트는 `search_engine/data/logs/`에 기록됩니다.
-- **데이터 파일**: 검색 인덱스는 `search_engine/data/index/`에 저장됩니다.
-```
-
-이 `README.md`는 검색 엔진과 관련된 모든 필수 정보와 사용 방법을 포함하고 있어, 다른 개발자나 사용자들이 이 프로젝트를 쉽게 이해하고 사용할 수 있도록 돕습니다.
+---
