@@ -93,5 +93,3 @@ PYTHONPATH=./ pytest tests/
 - **로깅**: 검색 엔진에서 발생하는 주요 이벤트는 `search_engine/data/logs/`에 기록됩니다.
 - **데이터 파일**: 검색 인덱스는 `search_engine/data/index/`에 저장됩니다.
 ```
-
-이 `README.md`는 검색 엔진과 관련된 모든 필수 정보와 사용 방법을 포함하고 있어, 다른 개발자나 사용자들이 이 프로젝트를 쉽게 이해하고 사용할 수 있도록 돕습니다.
