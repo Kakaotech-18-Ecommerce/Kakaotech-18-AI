@@ -145,21 +145,37 @@ curl "http://127.0.0.1:5001/search?query=초콜릿"
 ```bash
 
 /project-root
-│── /dummy_data                # 테스트 데이터 디렉토리
-│   └── products.json          # 테스트용 제품 데이터 파일
-│── /recommender_system        # 추천 시스템 관련 코드 디렉토리
-│   │── /Output_Data           # 모델 결과 저장 디렉토리
-│   │── main.py                # 추천 시스템 메인 실행 파일
-│   │── routes.py              # Flask 블루프린트 정의
-│   │── ...                    # 기타 관련 모듈
-│── /search_engine             # 검색 엔진 관련 코드 디렉토리
-│   │── config.py              # 설정 파일
-│   │── index.py               # 인덱싱 코드
-│   │── routes.py              # 검색 엔진 관련 API 라우트
-│   │── search_engine.py       # 검색 엔진 메인 파일
-│   │── utils.py               # 유틸리티 함수
-│── app.py                     # Flask 애플리케이션 메인 파일
-│── requirements.txt           # 프로젝트 요구사항 파일
-└── README.md                  # 프로젝트 문서화 파일
+├── Research (EDA & Test_Model)          # 모델 테스트와 탐색적 데이터 분석(EDA) 노트북 디렉토리
+│   ├── Kakao_RecSys_Test_Model.ipynb    # 추천 시스템 모델 테스트 노트북
+│   ├── Output_Data                      # 모델 테스트 결과 데이터를 저장하는 디렉토리
+│   │   ├── Kakao_Recsys_Output.csv      # 모델 출력 CSV 파일
+│   │   ├── product_predictions.json     # 예측된 제품 리뷰 점수를 저장한 JSON 파일
+│   │   └── product_predictions_only_score.json  # 리뷰 점수만 저장된 JSON 파일
+├── app.py                               # Flask 애플리케이션 메인 파일, 검색 엔진 및 추천 시스템 블루프린트 등록
+├── dummy_data                           # 테스트 및 샘플 데이터 저장 디렉토리
+│   ├── products.json                    # 테스트용 제품 데이터 JSON 파일
+├── recommender_system                   # 추천 시스템 관련 코드 및 데이터 디렉토리
+│   ├── Output_Data                      # 추천 시스템의 예측 결과 저장 디렉토리
+│   │   ├── Kakao_Recsys_Output.csv      # 예측 결과 CSV 파일
+│   │   ├── model_training_results.csv   # 모델 학습 결과 CSV 파일
+│   │   ├── product_id_with_predictions.json  # 예측된 리뷰 점수와 제품 ID를 포함한 JSON 파일
+│   │   └── product_predictions.json     # 최종 예측 결과 JSON 파일
+│   ├── category_based_recommendation.py # 카테고리 기반 추천 시스템 모듈
+│   ├── data_loading_and_preprocessing.py  # 데이터 로드 및 전처리 모듈
+│   ├── main.py                          # 추천 시스템 실행 파일
+│   ├── model_training_and_prediction.py # 모델 학습 및 예측 모듈
+│   ├── routes.py                        # 추천 시스템 관련 Flask 라우트 정의
+│   ├── save_results.py                  # 예측 결과를 파일로 저장하는 모듈
+│   ├── similarity_and_recommendation.py # 유사도 계산 및 추천 모듈
+├── requirements.txt                     # 프로젝트 의존성 패키지 목록
+├── search_engine                        # 검색 엔진 관련 코드 디렉토리
+│   ├── config.py                        # 검색 엔진 설정 파일
+│   ├── index.py                         # 검색 인덱스를 생성하는 스크립트
+│   ├── routes.py                        # 검색 엔진 관련 Flask 라우트 정의
+│   ├── search_engine.py                 # 검색 엔진 메인 모듈
+│   ├── utils.py                         # 검색 엔진 유틸리티 함수 모음
+└── tests                                # 테스트 코드 디렉토리
+    ├── conftest.py                      # 테스트 설정 파일
+    └── test_search_engine.py            # 검색 엔진 관련 테스트 코드
 ```
 ---
