@@ -13,3 +13,4 @@ def get_category_recommendations(filtered_data, label_encoder):
             recommendations[category] = pd.DataFrame()  # No data found for this category
     
     return recommendations
+
