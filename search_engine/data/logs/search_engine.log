@@ -19,3 +19,19 @@
 2024-08-26 14:30:18,080 - INFO - 127.0.0.1 - - [26/Aug/2024 14:30:18] "POST /search HTTP/1.1" 200 -
 2024-08-26 14:39:26,380 - INFO - Search completed for query: 초콜릿
 2024-08-26 14:39:26,380 - INFO - 127.0.0.1 - - [26/Aug/2024 14:39:26] "POST /search HTTP/1.1" 200 -
+2024-08-26 14:49:14,848 - INFO - Search completed for query: 초콜릿
+2024-08-26 14:49:14,849 - INFO - 127.0.0.1 - - [26/Aug/2024 14:49:14] "POST /search HTTP/1.1" 200 -
+2024-08-26 14:50:14,150 - INFO - 127.0.0.1 - - [26/Aug/2024 14:50:14] "POST /recommend/upload-data HTTP/1.1" 200 -
+2024-08-26 14:50:34,475 - INFO - 127.0.0.1 - - [26/Aug/2024 14:50:34] "POST /recommend/predict HTTP/1.1" 200 -
+2024-08-26 14:50:58,966 - INFO - 127.0.0.1 - - [26/Aug/2024 14:50:58] "GET /recommend/send-predictions HTTP/1.1" 200 -
+2024-08-26 14:51:21,197 - INFO - 127.0.0.1 - - [26/Aug/2024 14:51:21] "GET /recommend/send-predictions HTTP/1.1" 200 -
+2024-08-27 14:48:10,748 - INFO - Search completed for query: 소고기
+2024-08-27 14:48:10,749 - INFO - 127.0.0.1 - - [27/Aug/2024 14:48:10] "POST /search HTTP/1.1" 200 -
+2024-08-27 14:49:54,767 - INFO - 127.0.0.1 - - [27/Aug/2024 14:49:54] "POST /recommend/upload-data HTTP/1.1" 200 -
+2024-08-27 14:50:18,753 - INFO - 127.0.0.1 - - [27/Aug/2024 14:50:18] "POST /recommend/predict HTTP/1.1" 200 -
+2024-08-27 14:50:56,677 - INFO - 127.0.0.1 - - [27/Aug/2024 14:50:56] "GET /recommend/send-predictions HTTP/1.1" 200 -
+2024-08-29 16:53:27,597 - INFO - Search completed for query: 소고기
+2024-08-29 16:53:27,598 - INFO - 127.0.0.1 - - [29/Aug/2024 16:53:27] "POST /search HTTP/1.1" 200 -
+2024-08-29 16:54:23,238 - INFO - 127.0.0.1 - - [29/Aug/2024 16:54:23] "POST /recommend/upload-data HTTP/1.1" 200 -
+2024-08-29 16:54:39,418 - INFO - 127.0.0.1 - - [29/Aug/2024 16:54:39] "POST /recommend/predict HTTP/1.1" 200 -
+2024-08-29 16:55:13,903 - INFO - 127.0.0.1 - - [29/Aug/2024 16:55:13] "GET /recommend/send-predictions HTTP/1.1" 200 -

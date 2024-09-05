@@ -1,4 +1,5 @@
 # 골라골라 RecSys & Search Engine API
+# 2024.09.05 ver
 
 ## 목차
 1. [프로젝트 개요](#프로젝트-개요)
