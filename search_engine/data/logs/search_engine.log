@@ -35,3 +35,7 @@
 2024-08-29 16:54:23,238 - INFO - 127.0.0.1 - - [29/Aug/2024 16:54:23] "POST /recommend/upload-data HTTP/1.1" 200 -
 2024-08-29 16:54:39,418 - INFO - 127.0.0.1 - - [29/Aug/2024 16:54:39] "POST /recommend/predict HTTP/1.1" 200 -
 2024-08-29 16:55:13,903 - INFO - 127.0.0.1 - - [29/Aug/2024 16:55:13] "GET /recommend/send-predictions HTTP/1.1" 200 -
+2024-09-10 10:48:43,670 - INFO - Search completed for query: 초콜릿
+2024-09-10 10:48:43,671 - INFO - 127.0.0.1 - - [10/Sep/2024 10:48:43] "POST /search HTTP/1.1" 200 -
+2024-09-10 13:24:31,485 - INFO - Search completed for query: 초콜릿
+2024-09-10 13:24:31,485 - INFO - 127.0.0.1 - - [10/Sep/2024 13:24:31] "POST /search HTTP/1.1" 200 -

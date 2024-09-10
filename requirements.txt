@@ -5,12 +5,5 @@ Flask
 joblib
 xgboost
 lightgbm
-appdirs==1.4.4
-atomicwrites==1.4.0
 protobuf==3.20.3
-pyasn1-modules==0.2.8
-PyQt5==5.15.10
-PyQtWebEngine==5.15.6
-setuptools==69.5.1
-wheel==0.43.0
 Whoosh==2.7.4
