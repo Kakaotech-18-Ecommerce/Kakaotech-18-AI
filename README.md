@@ -1,5 +1,5 @@
+![Golla Golla](https://github.com/user-attachments/assets/99136f2e-f17e-435c-ae1f-96d15b46937e)
 # 골라골라 RecSys & Search Engine API
-# 2024.09.05 ver
 
 ## 목차
 1. [프로젝트 개요](#프로젝트-개요)
